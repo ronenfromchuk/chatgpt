@@ -1,6 +1,10 @@
 ronenGPT build using:
-TypeScript 💙, TailwindCSS 🎨, Firebase 🔥, NextJS v13 ⚡, REACT HOOKS 🪝 & more exciting features.......!
-![2i6](https://github.com/ronenfromchuk/chatgpt/assets/90146636/7e155eb4-7958-44a2-b37b-11d3e6b256cc) live on ------> https://ronengpt.vercel.app/
+TypeScript 💙, TailwindCSS 🎨, Firebase 🔥, NextJS v13 ⚡, REACT HOOKS 🪝 & more exciting features!
+live on ------> https://ronengpt.vercel.app/
+.
+.
+.
+![2i6](https://github.com/ronenfromchuk/chatgpt/assets/90146636/7e155eb4-7958-44a2-b37b-11d3e6b256cc)
 
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
