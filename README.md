@@ -1,6 +1,6 @@
 ronenGPT build using:
 TypeScript 💙, TailwindCSS 🎨, Firebase 🔥, NextJS v13 ⚡, REACT HOOKS 🪝 & more exciting features!
-live on ------> https://ronengpt.vercel.app/
+🔴 live on  https://ronengpt.vercel.app/
 .
 .
 .
